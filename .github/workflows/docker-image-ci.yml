@@ -29,4 +29,4 @@ jobs:
         context: .
         push: true
         platforms: linux/amd64,linux/arm64
-        tags: ghcr.io/${{ github.repository_owner }}/rccl-novu-web-docker:latest
+        tags: ghcr.io/${{ github.repository_owner }}/rccl-novu-web-docker:2.1.0
