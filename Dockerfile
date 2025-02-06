@@ -1,5 +1,5 @@
 # Use the existing web image as base
-FROM ghcr.io/novuhq/novu/web:2.0.0
+FROM ghcr.io/novuhq/novu/web:2.1.0
 
 # Set the working directory inside the container
 WORKDIR /app
